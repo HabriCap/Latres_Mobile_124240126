@@ -1,3 +1,6 @@
+Habrian Daffa Dwiyandana
+124240126
+
 # GasNonton! — TV Show Explorer
 
 Aplikasi Flutter untuk menjelajahi serial dan show TV dari TVMaze.
